@@ -1,0 +1,7 @@
+web_server_location       = "eastus2"
+web_server_rg             = "dev_infra_azure_rg"
+resource_prefix           = "dev_infra_server"
+web_server_address_space  = "10.0.0.0/22"
+web_server_address_prefix = "10.0.2.0/24"
+web_server_name           = "web-700"
+environment               = "production"
